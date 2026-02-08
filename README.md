@@ -1,0 +1,1 @@
+## A CNN-based land use classifier for the EuroSAT dataset using PyTorch.
